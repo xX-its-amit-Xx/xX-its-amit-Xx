@@ -2,7 +2,7 @@
 
 > *Mission: Solve as many puzzles as possible.*
 
-Computational biologist working the seams between bench biology, structural biophysics, and machine learning at scale. Currently finishing my B.S. at Northeastern (Dec 2025) and starting a thesis-track M.S. in Bioengineering (Fall 2026).
+Computational biologist working the seams between bench biology, structural biophysics, and machine learning at scale. B.S. in Computational Bioengineering @ Northeastern (Dec 2025) and currently pursuing a thesis-track M.S. in Bioengineering (Expected Grad May 2027).
 
 **Boston, MA** • [ashenoycompany@gmail.com](mailto:ashenoycompany@gmail.com) • [LinkedIn](https://linkedin.com/in/itsamit)
 
